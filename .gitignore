@@ -1,2 +1,5 @@
 # Project exclude paths
+.idea
 /sample/node_modules/
+/sample/dist/
+/sample/.idea/
